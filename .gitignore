@@ -1,0 +1,5 @@
+# Downloaded genome data (large files)
+genomes/
+
+# NCBI datasets CLI binaries
+bin/
